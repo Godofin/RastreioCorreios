@@ -1,3 +1,3 @@
 # RastreioCorreios
 
-blablabla tentando abrir mains
+Este repositório serve para automatizar o processo de rastreio de pedidos pelos correios
